@@ -22,5 +22,6 @@ Im currently a Senior Computer Science & Engineering Senior at the University of
 
 ----
 ### Contact Me
+<img src="https://github.com/Ap3x/Ap3x/blob/master/images/connected.gif" alt="Ap3x" width="350" height="200" />
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/noahtongate/)
