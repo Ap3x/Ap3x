@@ -2,12 +2,11 @@
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/noahtongate/)
   
-I'm a passionate Cyber Security Analyst @GoSecure. I love CTF's, HackTheBox, and most puzzle games! I know nothing about reverse engineering and binary exploit, but I know how to get flags. I specialize in mind-reading and guessing flags. I primarily solve challenges ranging from pwn to crypto, from crypto to bruteforce, from butefore to guessing, from guessing to ESP…
+Im currently a Senior Computer Science & Engineering Senior at the University of Louisville experienced in penetration testing, network operations, and programming. I earned the OSCP and I'm actively learning new attack and defenses methods and techniques. I like to challenge myself and expand my knowledge about programming to develop cyber security tools and payloads.
 
-- 🔭 I’m currently working on School and building tools
+- 🔭 I’m currently working on School and building Pentesting tools
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Perform my first Red-Team engagment 
 - ⚡ Fun fact: I love to travel and photography
 - [📚](https://ap3x.github.io/) My Blog
 
