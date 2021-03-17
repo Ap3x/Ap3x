@@ -1,6 +1,4 @@
 ### Hello, I'm Noah 👋
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/noahtongate/)
   
 Im currently a Senior Computer Science & Engineering Senior at the University of Louisville experienced in penetration testing, network operations, and programming. I earned the OSCP and I'm actively learning new attack and defenses methods and techniques. I like to challenge myself and expand my knowledge about programming to develop cyber security tools and payloads.
 
@@ -21,3 +19,8 @@ Im currently a Senior Computer Science & Engineering Senior at the University of
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/in/noahtongate/">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 </em>
 
 </p>
+
+----
+### Contact Me
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/noahtongate/)
