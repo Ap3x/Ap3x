@@ -6,7 +6,7 @@ Im currently a Senior Computer Science & Engineering Senior at the University of
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to travel and photography
-- [📚](https://ap3x.github.io/) My Blog
+- 📚 My Blog: [AP3X Blog](https://ap3x.github.io/) 
 
 ----
 
