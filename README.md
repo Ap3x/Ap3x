@@ -5,7 +5,7 @@ I'm a passionate Security Engineer at Netragard Inc. I love CTF's, HackTheBox, a
 - 🔭 I’m currently working on School and building Pentesting tools
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to travel and photography
+- ⚡ Fun fact: I love traveling and photography
 - 📚 My Blog: [Ap3x Blog](https://ap3x.github.io/) 
 
 ----
