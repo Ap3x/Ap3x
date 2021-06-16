@@ -1,6 +1,6 @@
 ### Hello, I'm Noah 👋
   
-Im currently a Computer Science & Engineering Senior at the University of Louisville experienced in penetration testing, network operations, and programming. I earned the OSCP and I'm actively learning new attack and defenses methods and techniques. I like to challenge myself and expand my knowledge about programming to develop cyber security tools and payloads.
+I'm a passionate Security Engineer at Netragard Inc. I love CTF's, HackTheBox, and most puzzle games! I'm actively learning new attack and defenses methods and techniques. I like to challenge myself and expand my knowledge about programming to develop cyber security tools and payloads.
 
 - 🔭 I’m currently working on School and building Pentesting tools
 - 🌱 I’m currently learning everything 🤣
