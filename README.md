@@ -1,8 +1,8 @@
 ### Hello, I'm Noah 👋
   
-I'm a passionate Security Engineer at Netragard Inc. I love CTF's, HackTheBox, and most puzzle games! I'm actively learning new attack and defenses methods and techniques. I like to challenge myself and expand my knowledge about programming to develop cyber security tools and payloads.
+Im currently a Security Engineer at Netragard Inc. where I conduct pentest for large and small corporations in all different types of industry. At Netragard I also develop tools, payloads, and help maintain the offensive infrastructure used during pentest. I graduated from the University of Louisville where I double majored in Computer Science and Computer Engineering. During my free time I like to spend time sharpening my skills through hacking platforms, programming projects, CTFs, or working on my home lab. In my home lab I like to build upon my knowledge about virtualization, linux, networking, offensive/defensive security, and to play around with other tools and operating systems. I also love photography, hiking, camping, and traveling, exploring new places, learning about cultures, and cooking and trying new food.
 
-- 🔭 I’m currently working on School and building Pentesting tools
+- 🔭 I’m currently working on offensive payloads
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love traveling and photography
