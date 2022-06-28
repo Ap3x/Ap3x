@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/Ap3x?template=classic&starlists=1&base.indepth=false&base.hireable=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&config.timezone=America%2FNew_York)
+![Metrics](https://metrics.lecoq.io/Ap3x?template=classic&stars=1&base.indepth=false&base.hireable=false&stars.limit=4&config.timezone=America%2FNew_York)
